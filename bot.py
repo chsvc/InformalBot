@@ -11,7 +11,7 @@ worksheet = sh.sheet1  # получаем первый лист
 res = worksheet.get_all_records()
 
 
-token = '5731681451:AAE6CRGy6YYbUvCrHgx3wfbkHmlaQgkfJKQ'
+token = '6294596617:AAEQ1woVal-6-6wMrnw0mwyYsL3xzWZI3wM'
 bot = TeleBot(token)
 
 # параметры
